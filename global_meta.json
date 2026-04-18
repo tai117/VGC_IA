@@ -1,0 +1,35 @@
+{
+    "pokemon_usage": {
+        "Incineroar": 47.0,
+        "Miraidon": 39.8,
+        "Urshifu-Rapid-Strike": 39.7,
+        "Calyrex-Ice": 32.5,
+        "Indeedee-F": 9.8,
+        "Chi-Yu": 9.6,
+        "Terapagos": 9.4,
+        "Ogerpon-Cornerstone": 9.0,
+        "Smeargle": 8.5,
+        "Farigiraf": 8.1
+    },
+    "common_moves": {
+        "Incineroar": {
+            "Fake Out": 99.8,
+            "Parting Shot": 95.3,
+            "Flare Blitz": 67.8,
+            "Knock Off": 59.9,
+            "Will-O-Wisp": 18.0
+        },
+        "Miraidon": {
+            "Electro Drift": 99.1,
+            "Draco Meteor": 82.4,
+            "Volt Switch": 75.0,
+            "Dazzling Gleam": 40.2
+        },
+        "Urshifu-Rapid-Strike": {
+            "Surging Strikes": 100.0,
+            "Aqua Jet": 92.5,
+            "Close Combat": 88.0,
+            "Detect": 95.0
+        }
+    }
+}
